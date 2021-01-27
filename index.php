@@ -14,7 +14,7 @@
 <tr>
 <td>Nama</td>
 <td>Sulkifli Syarif</td>
-<td rowspan="10" align="center"><img src="URL-GAMBAR-ANDA.jpg" width="210" height="313"></td>
+<td rowspan="10" align="center"><img src="saya.jpg" width="210" height="313"></td>
 </tr>
 <tr>
 <td>Jurusan</td>
